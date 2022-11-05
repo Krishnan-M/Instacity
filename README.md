@@ -1,2 +1,2 @@
-# Lowbudget-Instagram
+# Instacity
 Contains GIF's
